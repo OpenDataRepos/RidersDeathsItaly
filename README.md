@@ -12,3 +12,4 @@ TODO:
 - Search more data from 2020 and pre-2017 
 - QA
 - Check spelling and grammar 
+- Understand how the professional figure's name has changed over time (e.g., from 'pony-express' and 'fattorino' to 'rider') 
