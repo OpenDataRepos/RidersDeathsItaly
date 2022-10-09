@@ -1,4 +1,4 @@
-An article from "Wired.it" [1] states that in Italy currently there is no database about food delivery riders' deaths. 
+An article from "Wired.it" [1] states that in Italy currently there is no database about food delivery riders' casualties. 
 
 The table in the Google Sheet below [2] is an attempt to address this.  
 
